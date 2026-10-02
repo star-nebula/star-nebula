@@ -16,7 +16,7 @@
 
   <p>
     <a href="https://star-nebula.github.io/knowledge/"><img alt="Blog" src="https://img.shields.io/badge/Blog-Knowledge--Base-58A6FF?style=flat-square" /></a>
-    <a href="https://www.xiaohongshu.com/user/profile/697dfcf40000000024012702"><img alt="Xiaohongshu" src="https://img.shields.io/badge/Xiaohongshu-%40star--nebula-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white" /></a>
+    <a href="https://www.xiaohongshu.com/user/profile/697dfcf40000000024012702"><img alt="RedNote" src="https://img.shields.io/badge/RedNote-%40star--nebula-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white" /></a>
     <!--
     <a href="your link"><img alt="Bilibili" src="https://img.shields.io/badge/Bilibili-yourID-FB7299?style=flat-square" /></a>
     <a href="your link"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-yourID-FFA116?style=flat-square" /></a>
