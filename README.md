@@ -291,19 +291,6 @@
 
 </details>
 
-<!-- XHS-NOTES:START（由 scripts/update_xhs_notes.py 维护，勿手改） -->
-<h2 align="center">📝 Latest Notes · RedNote</h2>
-<div align="center">
-<table>
-  <tr>
-    <td align="center" width="200"><a href="https://www.xiaohongshu.com/user/profile/697dfcf40000000024012702"><img src="assets/xhs/note-1.webp" width="180" alt="狐妖小红娘全员 GorkBot 化" /></a><br /><a href="https://www.xiaohongshu.com/user/profile/697dfcf40000000024012702"><sub>狐妖小红娘全员 GorkBot 化</sub></a></td>
-    <td align="center" width="200"><a href="https://www.xiaohongshu.com/user/profile/697dfcf40000000024012702"><img src="assets/xhs/note-2.webp" width="180" alt="DeepSeek 把 harness 框架做成积木" /></a><br /><a href="https://www.xiaohongshu.com/user/profile/697dfcf40000000024012702"><sub>DeepSeek 把 harness 框架做成积木</sub></a></td>
-    <td align="center" width="200"><a href="https://www.xiaohongshu.com/user/profile/697dfcf40000000024012702"><img src="assets/xhs/note-3.webp" width="180" alt="「周深」grokbot 风格头像" /></a><br /><a href="https://www.xiaohongshu.com/user/profile/697dfcf40000000024012702"><sub>「周深」grokbot 风格头像</sub></a></td>
-  </tr>
-</table>
-</div>
-<!-- XHS-NOTES:END -->
-
 ---
 
 <div align="center">
