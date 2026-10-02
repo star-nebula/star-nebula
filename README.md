@@ -42,9 +42,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cjs%2Chtml%2Cnodejs%2Cbash%2Cmd%2Cgit%2Cgithub%2Cvscode&perline=5&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cjs%2Chtml%2Cnodejs%2Cbash%2Cmd%2Cgit%2Cgithub%2Cvscode&perline=5&theme=light" />
-    <img alt="tech stack" src="https://skillicons.dev/icons?i=python%2Cjs%2Chtml%2Cnodejs%2Cbash%2Cmd%2Cgit%2Cgithub%2Cvscode&perline=5&theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cjs%2Chtml%2Cnodejs%2Cbash%2Cmd%2Cgit%2Cgithub%2Cvscode&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cjs%2Chtml%2Cnodejs%2Cbash%2Cmd%2Cgit%2Cgithub%2Cvscode&theme=light" />
+    <img alt="tech stack" src="https://skillicons.dev/icons?i=python%2Cjs%2Chtml%2Cnodejs%2Cbash%2Cmd%2Cgit%2Cgithub%2Cvscode&theme=dark" />
   </picture>
 </div>
 
