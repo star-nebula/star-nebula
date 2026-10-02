@@ -61,37 +61,6 @@
   <a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light" /><img alt="VSCode" src="https://skillicons.dev/icons?i=vscode&theme=dark" /></picture></a>
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=star-nebula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=star-nebula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-    <img height="170" alt="stats" src="https://github-readme-stats.vercel.app/api?username=star-nebula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&theme=tokyonight" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=star-nebula&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=star-nebula&layout=compact&hide_border=true&langs_count=8" />
-    <img height="170" alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=star-nebula&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
-  </picture>
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=star-nebula&hide_border=true&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=star-nebula&hide_border=true" />
-    <img height="170" alt="streak" src="https://streak-stats.demolab.com/?user=star-nebula&hide_border=true&theme=tokyonight" />
-  </picture>
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/star-nebula/star-nebula/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/star-nebula/star-nebula/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/star-nebula/star-nebula/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
 </details>
 
 <details>
@@ -128,37 +97,6 @@
   <a href="https://git-scm.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git&theme=light" /><img alt="Git" src="https://skillicons.dev/icons?i=git&theme=dark" /></picture></a>
   <a href="https://github.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github&theme=light" /><img alt="GitHub" src="https://skillicons.dev/icons?i=github&theme=dark" /></picture></a>
   <a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light" /><img alt="VSCode" src="https://skillicons.dev/icons?i=vscode&theme=dark" /></picture></a>
-</div>
-
-## 📊 GitHub 统计
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=star-nebula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=cn&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=star-nebula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=cn" />
-    <img height="170" alt="stats" src="https://github-readme-stats.vercel.app/api?username=star-nebula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=cn&theme=tokyonight" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=star-nebula&layout=compact&hide_border=true&langs_count=8&locale=cn&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=star-nebula&layout=compact&hide_border=true&langs_count=8&locale=cn" />
-    <img height="170" alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=star-nebula&layout=compact&hide_border=true&langs_count=8&locale=cn&theme=tokyonight" />
-  </picture>
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=star-nebula&hide_border=true&locale=zh_Hans&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=star-nebula&hide_border=true&locale=zh_Hans" />
-    <img height="170" alt="streak" src="https://streak-stats.demolab.com/?user=star-nebula&hide_border=true&locale=zh_Hans&theme=tokyonight" />
-  </picture>
-</div>
-
-## 🐍 贡献贪吃蛇
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/star-nebula/star-nebula/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/star-nebula/star-nebula/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/star-nebula/star-nebula/output/github-contribution-grid-snake.svg" />
-  </picture>
 </div>
 
 </details>
@@ -199,37 +137,6 @@
   <a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light" /><img alt="VSCode" src="https://skillicons.dev/icons?i=vscode&theme=dark" /></picture></a>
 </div>
 
-## 📊 GitHub 統計
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=star-nebula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=ja&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=star-nebula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=ja" />
-    <img height="170" alt="stats" src="https://github-readme-stats.vercel.app/api?username=star-nebula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=ja&theme=tokyonight" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=star-nebula&layout=compact&hide_border=true&langs_count=8&locale=ja&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=star-nebula&layout=compact&hide_border=true&langs_count=8&locale=ja" />
-    <img height="170" alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=star-nebula&layout=compact&hide_border=true&langs_count=8&locale=ja&theme=tokyonight" />
-  </picture>
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=star-nebula&hide_border=true&locale=ja&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=star-nebula&hide_border=true&locale=ja" />
-    <img height="170" alt="streak" src="https://streak-stats.demolab.com/?user=star-nebula&hide_border=true&locale=ja&theme=tokyonight" />
-  </picture>
-</div>
-
-## 🐍 コントリビューションスネーク
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/star-nebula/star-nebula/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/star-nebula/star-nebula/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/star-nebula/star-nebula/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
 </details>
 
 <details>
@@ -266,37 +173,6 @@
   <a href="https://git-scm.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git&theme=light" /><img alt="Git" src="https://skillicons.dev/icons?i=git&theme=dark" /></picture></a>
   <a href="https://github.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github&theme=light" /><img alt="GitHub" src="https://skillicons.dev/icons?i=github&theme=dark" /></picture></a>
   <a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light" /><img alt="VSCode" src="https://skillicons.dev/icons?i=vscode&theme=dark" /></picture></a>
-</div>
-
-## 📊 GitHub 통계
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=star-nebula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=kr&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=star-nebula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=kr" />
-    <img height="170" alt="stats" src="https://github-readme-stats.vercel.app/api?username=star-nebula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=kr&theme=tokyonight" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=star-nebula&layout=compact&hide_border=true&langs_count=8&locale=kr&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=star-nebula&layout=compact&hide_border=true&langs_count=8&locale=kr" />
-    <img height="170" alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=star-nebula&layout=compact&hide_border=true&langs_count=8&locale=kr&theme=tokyonight" />
-  </picture>
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=star-nebula&hide_border=true&locale=ko&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=star-nebula&hide_border=true&locale=ko" />
-    <img height="170" alt="streak" src="https://streak-stats.demolab.com/?user=star-nebula&hide_border=true&locale=ko&theme=tokyonight" />
-  </picture>
-</div>
-
-## 🐍 기여 스네이크
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/star-nebula/star-nebula/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/star-nebula/star-nebula/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/star-nebula/star-nebula/output/github-contribution-grid-snake.svg" />
-  </picture>
 </div>
 
 </details>
@@ -337,37 +213,6 @@
   <a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light" /><img alt="VSCode" src="https://skillicons.dev/icons?i=vscode&theme=dark" /></picture></a>
 </div>
 
-## 📊 Estadísticas de GitHub
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=star-nebula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=es&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=star-nebula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=es" />
-    <img height="170" alt="stats" src="https://github-readme-stats.vercel.app/api?username=star-nebula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=es&theme=tokyonight" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=star-nebula&layout=compact&hide_border=true&langs_count=8&locale=es&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=star-nebula&layout=compact&hide_border=true&langs_count=8&locale=es" />
-    <img height="170" alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=star-nebula&layout=compact&hide_border=true&langs_count=8&locale=es&theme=tokyonight" />
-  </picture>
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=star-nebula&hide_border=true&locale=es&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=star-nebula&hide_border=true&locale=es" />
-    <img height="170" alt="streak" src="https://streak-stats.demolab.com/?user=star-nebula&hide_border=true&locale=es&theme=tokyonight" />
-  </picture>
-</div>
-
-## 🐍 Serpiente de contribuciones
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/star-nebula/star-nebula/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/star-nebula/star-nebula/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/star-nebula/star-nebula/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
 </details>
 
 <details>
@@ -406,37 +251,6 @@
   <a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light" /><img alt="VSCode" src="https://skillicons.dev/icons?i=vscode&theme=dark" /></picture></a>
 </div>
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=star-nebula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=star-nebula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br" />
-    <img height="170" alt="stats" src="https://github-readme-stats.vercel.app/api?username=star-nebula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=pt-br&theme=tokyonight" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=star-nebula&layout=compact&hide_border=true&langs_count=8&locale=pt-br&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=star-nebula&layout=compact&hide_border=true&langs_count=8&locale=pt-br" />
-    <img height="170" alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=star-nebula&layout=compact&hide_border=true&langs_count=8&locale=pt-br&theme=tokyonight" />
-  </picture>
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=star-nebula&hide_border=true&locale=pt-br&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=star-nebula&hide_border=true&locale=pt-br" />
-    <img height="170" alt="streak" src="https://streak-stats.demolab.com/?user=star-nebula&hide_border=true&locale=pt-br&theme=tokyonight" />
-  </picture>
-</div>
-
-## 🐍 Cobra de contribuições
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/star-nebula/star-nebula/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/star-nebula/star-nebula/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/star-nebula/star-nebula/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
 </details>
 
 <details>
@@ -473,37 +287,6 @@
   <a href="https://git-scm.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git&theme=light" /><img alt="Git" src="https://skillicons.dev/icons?i=git&theme=dark" /></picture></a>
   <a href="https://github.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github&theme=light" /><img alt="GitHub" src="https://skillicons.dev/icons?i=github&theme=dark" /></picture></a>
   <a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light" /><img alt="VSCode" src="https://skillicons.dev/icons?i=vscode&theme=dark" /></picture></a>
-</div>
-
-## 📊 Статистика GitHub
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=star-nebula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=ru&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=star-nebula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=ru" />
-    <img height="170" alt="stats" src="https://github-readme-stats.vercel.app/api?username=star-nebula&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=ru&theme=tokyonight" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=star-nebula&layout=compact&hide_border=true&langs_count=8&locale=ru&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=star-nebula&layout=compact&hide_border=true&langs_count=8&locale=ru" />
-    <img height="170" alt="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=star-nebula&layout=compact&hide_border=true&langs_count=8&locale=ru&theme=tokyonight" />
-  </picture>
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=star-nebula&hide_border=true&locale=ru&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=star-nebula&hide_border=true&locale=ru" />
-    <img height="170" alt="streak" src="https://streak-stats.demolab.com/?user=star-nebula&hide_border=true&locale=ru&theme=tokyonight" />
-  </picture>
-</div>
-
-## 🐍 Змейка контрибуций
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/star-nebula/star-nebula/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/star-nebula/star-nebula/output/github-contribution-grid-snake.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/star-nebula/star-nebula/output/github-contribution-grid-snake.svg" />
-  </picture>
 </div>
 
 </details>
