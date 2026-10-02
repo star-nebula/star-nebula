@@ -13,7 +13,7 @@
 
   <p>
     <a href="https://star-nebula.github.io/knowledge/"><img alt="Blog" src="https://img.shields.io/badge/Blog-%E7%9F%A5%E8%AF%86%E5%BA%93-58A6FF?style=flat-square" /></a>
-    <a href="https://www.xiaohongshu.com/user/profile/697dfcf40000000024012702"><img alt="小红书" src="https://img.shields.io/badge/%E5%B0%8F%E7%BA%A2%E4%B9%A6-%40AI%E8%83%BD%E5%81%9A%E4%BB%80%E4%B9%88-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white" /></a>
+    <a href="https://www.xiaohongshu.com/user/profile/697dfcf40000000024012702"><img alt="小红书" src="https://img.shields.io/badge/%E5%B0%8F%E7%BA%A2%E4%B9%A6-%40star--nebula-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white" /></a>
     <!--
     <a href="你的链接"><img alt="Bilibili" src="https://img.shields.io/badge/Bilibili-你的ID-FB7299?style=flat-square" /></a>
     <a href="你的链接"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-你的ID-FFA116?style=flat-square" /></a>
