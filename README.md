@@ -597,7 +597,5 @@
 ---
 
 <div align="center">
-  <img alt="profile views" src="https://komarev.com/ghpvc/?username=star-nebula&style=flat-square&color=58A6FF&label=PROFILE+VIEWS" />
-  <br/>
   <sub>✨ We are all made of star stuff ✨</sub>
 </div>
