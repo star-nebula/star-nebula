@@ -40,12 +40,17 @@
 
 ## 🛠️ 技术栈
 
+<!-- ✏️ 每个图标一行 <a>，href 改成想跳的链接；增删图标照任意一行复制，可用图标名见 https://skillicons.dev/icons -->
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cjs%2Chtml%2Cnodejs%2Cbash%2Cmd%2Cgit%2Cgithub%2Cvscode&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cjs%2Chtml%2Cnodejs%2Cbash%2Cmd%2Cgit%2Cgithub%2Cvscode&theme=light" />
-    <img alt="tech stack" src="https://skillicons.dev/icons?i=python%2Cjs%2Chtml%2Cnodejs%2Cbash%2Cmd%2Cgit%2Cgithub%2Cvscode&theme=dark" />
-  </picture>
+  <a href="https://www.python.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python&theme=light" /><img alt="Python" src="https://skillicons.dev/icons?i=python&theme=dark" /></picture></a>
+  <a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js&theme=light" /><img alt="JavaScript" src="https://skillicons.dev/icons?i=js&theme=dark" /></picture></a>
+  <a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=html&theme=light" /><img alt="HTML5" src="https://skillicons.dev/icons?i=html&theme=dark" /></picture></a>
+  <a href="https://nodejs.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs&theme=light" /><img alt="Node.js" src="https://skillicons.dev/icons?i=nodejs&theme=dark" /></picture></a>
+  <a href="https://www.gnu.org/software/bash/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bash&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=bash&theme=light" /><img alt="Bash" src="https://skillicons.dev/icons?i=bash&theme=dark" /></picture></a>
+  <a href="https://daringfireball.net/projects/markdown/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=md&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=md&theme=light" /><img alt="Markdown" src="https://skillicons.dev/icons?i=md&theme=dark" /></picture></a>
+  <a href="https://git-scm.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git&theme=light" /><img alt="Git" src="https://skillicons.dev/icons?i=git&theme=dark" /></picture></a>
+  <a href="https://github.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github&theme=light" /><img alt="GitHub" src="https://skillicons.dev/icons?i=github&theme=dark" /></picture></a>
+  <a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light" /><img alt="VSCode" src="https://skillicons.dev/icons?i=vscode&theme=dark" /></picture></a>
 </div>
 
 ## 📊 GitHub 统计
