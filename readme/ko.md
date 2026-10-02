@@ -86,7 +86,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/star-nebula/star-nebula/output/github-contribution-grid-snake.svg" />
     <img alt="contribution snake" src="https://raw.githubusercontent.com/star-nebula/star-nebula/output/github-contribution-grid-snake.svg" />
   </picture>
-  <sub>이 [GitHub Action](../.github/workflows/snake.yml) 가 매일 자동 생성</sub>
+  <sub>이 <a href="../.github/workflows/snake.yml">GitHub Action</a> 가 매일 자동 생성</sub>
 </div>
 
 ---

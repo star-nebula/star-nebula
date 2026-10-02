@@ -86,7 +86,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/star-nebula/star-nebula/output/github-contribution-grid-snake.svg" />
     <img alt="contribution snake" src="https://raw.githubusercontent.com/star-nebula/star-nebula/output/github-contribution-grid-snake.svg" />
   </picture>
-  <sub>由 [GitHub Action](../.github/workflows/snake.yml) 每天自动生成</sub>
+  <sub>由 <a href="../.github/workflows/snake.yml">GitHub Action</a> 每天自动生成</sub>
 </div>
 
 ---
