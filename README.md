@@ -1,7 +1,7 @@
 <!--
   ⭐ 这是 GitHub 主页 README：在 GitHub 上新建一个和你用户名同名的公开仓库 star-nebula/star-nebula，
      把这个目录推上去，README 就会渲染在你的个人主页 Overview 上。
-  ✏️ 标注的地方是可以按自己喜好改的。
+  ✏️ 标注的地方是可以按自己喜好改的；社交链接行（Blog 那行）要加新链接，照下面注释里的示例复制一份改链接即可。
 -->
 
 <div align="center">
@@ -11,7 +11,6 @@
     <img alt="typewriter" src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono:wght@600&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&height=60&lines=Hi%2C+I'm+star-nebula+%F0%9F%8C%8C;Giving+AI+a+cross-tool+memory+%F0%9F%A7%A0;Python+%C2%B7+JavaScript+%C2%B7+Markdown;AI+coding+tools+tinkerer+%F0%9F%94%A7;We+are+made+of+star+stuff+%E2%9C%A8" />
   </picture>
 
-  ✏️ 社交链接行（有新链接就照着这一行加）：
   <p>
     <a href="https://star-nebula.github.io/knowledge/"><img alt="Blog" src="https://img.shields.io/badge/Blog-%E7%9F%A5%E8%AF%86%E5%BA%93-58A6FF?style=flat-square" /></a>
     <!--
@@ -43,9 +42,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,js,html,nodejs,bash,md,git,github,vscode&perline=5&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,js,html,nodejs,bash,md,git,github,vscode&perline=5&theme=light" />
-    <img alt="tech stack" src="https://skillicons.dev/icons?i=python,js,html,nodejs,bash,md,git,github,vscode&perline=5&theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python%2Cjs%2Chtml%2Cnodejs%2Cbash%2Cmd%2Cgit%2Cgithub%2Cvscode&perline=5&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python%2Cjs%2Chtml%2Cnodejs%2Cbash%2Cmd%2Cgit%2Cgithub%2Cvscode&perline=5&theme=light" />
+    <img alt="tech stack" src="https://skillicons.dev/icons?i=python%2Cjs%2Chtml%2Cnodejs%2Cbash%2Cmd%2Cgit%2Cgithub%2Cvscode&perline=5&theme=dark" />
   </picture>
 </div>
 
@@ -88,7 +87,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/star-nebula/star-nebula/output/github-contribution-grid-snake.svg" />
     <img alt="contribution snake" src="https://raw.githubusercontent.com/star-nebula/star-nebula/output/github-contribution-grid-snake.svg" />
   </picture>
-  <sub>由 <a href=".github/workflows/snake.yml">GitHub Action</a> 每天自动生成（首次推送后需手动触发一次）</sub>
+  <sub>由 <a href=".github/workflows/snake.yml">GitHub Action</a> 每天自动生成</sub>
 </div>
 
 ---
