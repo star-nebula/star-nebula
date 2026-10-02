@@ -69,8 +69,8 @@
   </picture>
 </div>
 
-## 🏆 成就墙
-
+<!-- 🏆 成就墙：奖杯服务 github-profile-trophy.vercel.app 目前对 camo 返回 402（vercel 免费额度耗尽），
+     恢复后把下面这段的注释打开即可（深色 tokyonight / 浅色 flat）：
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=star-nebula&no-frame=true&column=7&theme=tokyonight" />
@@ -78,6 +78,7 @@
     <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=star-nebula&no-frame=true&column=7&theme=tokyonight" />
   </picture>
 </div>
+-->
 
 ## 🐍 贡献贪吃蛇
 
