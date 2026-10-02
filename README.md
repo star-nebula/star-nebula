@@ -6,9 +6,6 @@
 -->
 
 
-<details open>
-<summary><b>🇬🇧 English</b></summary>
-
 <div align="center">
 
   <picture>
@@ -18,11 +15,18 @@
   </picture>
 
   <p>
-    <a href="https://star-nebula.github.io/knowledge/"><img alt="Blog" src="https://img.shields.io/badge/Blog-%E7%9F%A5%E8%AF%86%E5%BA%93-58A6FF?style=flat-square" /></a>
-    <a href="https://www.xiaohongshu.com/user/profile/697dfcf40000000024012702"><img alt="小红书" src="https://img.shields.io/badge/%E5%B0%8F%E7%BA%A2%E4%B9%A6-%40star--nebula-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white" /></a>
+    <a href="https://star-nebula.github.io/knowledge/"><img alt="Blog" src="https://img.shields.io/badge/Blog-Knowledge--Base-58A6FF?style=flat-square" /></a>
+    <a href="https://www.xiaohongshu.com/user/profile/697dfcf40000000024012702"><img alt="Xiaohongshu" src="https://img.shields.io/badge/Xiaohongshu-%40star--nebula-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white" /></a>
+    <!--
+    <a href="your link"><img alt="Bilibili" src="https://img.shields.io/badge/Bilibili-yourID-FB7299?style=flat-square" /></a>
+    <a href="your link"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-yourID-FFA116?style=flat-square" /></a>
+    -->
   </p>
-
 </div>
+
+
+<details open>
+<summary><b>🇬🇧 English</b></summary>
 
 ## 🧠 About Me
 
@@ -93,21 +97,6 @@
 <details>
 <summary><b>🇨🇳 简体中文</b></summary>
 
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono:wght@600&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&height=60&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%20star-nebula%20%F0%9F%8C%8C;%E7%BB%99%20AI%20%E4%B8%80%E4%B8%AA%E8%B7%A8%E5%B7%A5%E5%85%B7%E7%9A%84%E8%AE%B0%E5%BF%86%20%F0%9F%A7%A0;Python%20%C2%B7%20JavaScript%20%C2%B7%20Markdown;%E6%8A%98%E8%85%BE%20AI%20%E7%BC%96%E7%A0%81%E5%B7%A5%E5%85%B7%E7%9A%84%E6%8A%80%E8%83%BD%E4%B8%8E%E8%AE%B0%E5%BF%86%E7%B3%BB%E7%BB%9F;%E6%88%91%E4%BB%AC%E9%83%BD%E6%98%AF%E6%98%9F%E5%B0%98%20%E2%9C%A8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono:wght@600&size=26&duration=3000&pause=1200&color=0969DA&center=true&vCenter=true&width=650&height=60&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%20star-nebula%20%F0%9F%8C%8C;%E7%BB%99%20AI%20%E4%B8%80%E4%B8%AA%E8%B7%A8%E5%B7%A5%E5%85%B7%E7%9A%84%E8%AE%B0%E5%BF%86%20%F0%9F%A7%A0;Python%20%C2%B7%20JavaScript%20%C2%B7%20Markdown;%E6%8A%98%E8%85%BE%20AI%20%E7%BC%96%E7%A0%81%E5%B7%A5%E5%85%B7%E7%9A%84%E6%8A%80%E8%83%BD%E4%B8%8E%E8%AE%B0%E5%BF%86%E7%B3%BB%E7%BB%9F;%E6%88%91%E4%BB%AC%E9%83%BD%E6%98%AF%E6%98%9F%E5%B0%98%20%E2%9C%A8" />
-    <img alt="typewriter" src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono:wght@600&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&height=60&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%20star-nebula%20%F0%9F%8C%8C;%E7%BB%99%20AI%20%E4%B8%80%E4%B8%AA%E8%B7%A8%E5%B7%A5%E5%85%B7%E7%9A%84%E8%AE%B0%E5%BF%86%20%F0%9F%A7%A0;Python%20%C2%B7%20JavaScript%20%C2%B7%20Markdown;%E6%8A%98%E8%85%BE%20AI%20%E7%BC%96%E7%A0%81%E5%B7%A5%E5%85%B7%E7%9A%84%E6%8A%80%E8%83%BD%E4%B8%8E%E8%AE%B0%E5%BF%86%E7%B3%BB%E7%BB%9F;%E6%88%91%E4%BB%AC%E9%83%BD%E6%98%AF%E6%98%9F%E5%B0%98%20%E2%9C%A8" />
-  </picture>
-
-  <p>
-    <a href="https://star-nebula.github.io/knowledge/"><img alt="Blog" src="https://img.shields.io/badge/Blog-%E7%9F%A5%E8%AF%86%E5%BA%93-58A6FF?style=flat-square" /></a>
-    <a href="https://www.xiaohongshu.com/user/profile/697dfcf40000000024012702"><img alt="小红书" src="https://img.shields.io/badge/%E5%B0%8F%E7%BA%A2%E4%B9%A6-%40star--nebula-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white" /></a>
-  </p>
-
-</div>
-
 ## 🧠 关于我
 
 - 🔭 正在折腾：**跨工具 AI 记忆库** 和 **AI 编码工具的技能管理系统** —— 让每个 AI CLI 都记得住事、找得到文件
@@ -176,21 +165,6 @@
 
 <details>
 <summary><b>🇯🇵 日本語</b></summary>
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono:wght@600&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&height=60&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81star-nebula%20%E3%81%A7%E3%81%99%20%F0%9F%8C%8C;AI%20%E3%81%AB%E3%83%84%E3%83%BC%E3%83%AB%E6%A8%AA%E6%96%AD%E3%81%AE%E8%A8%98%E6%86%B6%E3%82%92%20%F0%9F%A7%A0;Python%20%C2%B7%20JavaScript%20%C2%B7%20Markdown;AI%20%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E5%B7%A5%E5%85%B7%E3%81%AE%E3%82%B9%E3%82%AD%E3%83%AB%E3%81%A8%E8%A8%98%E6%86%B6%E3%82%92%E6%94%B9%E8%89%AF%E4%B8%AD;%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%AF%E6%98%9F%E3%81%AE%E7%89%A9%E8%B3%AA%E3%81%8B%E3%82%89%E3%81%A7%E3%81%8D%E3%81%A6%E3%81%84%E3%82%8B%20%E2%9C%A8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono:wght@600&size=26&duration=3000&pause=1200&color=0969DA&center=true&vCenter=true&width=650&height=60&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81star-nebula%20%E3%81%A7%E3%81%99%20%F0%9F%8C%8C;AI%20%E3%81%AB%E3%83%84%E3%83%BC%E3%83%AB%E6%A8%AA%E6%96%AD%E3%81%AE%E8%A8%98%E6%86%B6%E3%82%92%20%F0%9F%A7%A0;Python%20%C2%B7%20JavaScript%20%C2%B7%20Markdown;AI%20%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E5%B7%A5%E5%85%B7%E3%81%AE%E3%82%B9%E3%82%AD%E3%83%AB%E3%81%A8%E8%A8%98%E6%86%B6%E3%82%92%E6%94%B9%E8%89%AF%E4%B8%AD;%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%AF%E6%98%9F%E3%81%AE%E7%89%A9%E8%B3%AA%E3%81%8B%E3%82%89%E3%81%A7%E3%81%8D%E3%81%A6%E3%81%84%E3%82%8B%20%E2%9C%A8" />
-    <img alt="typewriter" src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono:wght@600&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&height=60&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81star-nebula%20%E3%81%A7%E3%81%99%20%F0%9F%8C%8C;AI%20%E3%81%AB%E3%83%84%E3%83%BC%E3%83%AB%E6%A8%AA%E6%96%AD%E3%81%AE%E8%A8%98%E6%86%B6%E3%82%92%20%F0%9F%A7%A0;Python%20%C2%B7%20JavaScript%20%C2%B7%20Markdown;AI%20%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E5%B7%A5%E5%85%B7%E3%81%AE%E3%82%B9%E3%82%AD%E3%83%AB%E3%81%A8%E8%A8%98%E6%86%B6%E3%82%92%E6%94%B9%E8%89%AF%E4%B8%AD;%E7%A7%81%E3%81%9F%E3%81%A1%E3%81%AF%E6%98%9F%E3%81%AE%E7%89%A9%E8%B3%AA%E3%81%8B%E3%82%89%E3%81%A7%E3%81%8D%E3%81%A6%E3%81%84%E3%82%8B%20%E2%9C%A8" />
-  </picture>
-
-  <p>
-    <a href="https://star-nebula.github.io/knowledge/"><img alt="Blog" src="https://img.shields.io/badge/Blog-%E7%9F%A5%E8%AF%86%E5%BA%93-58A6FF?style=flat-square" /></a>
-    <a href="https://www.xiaohongshu.com/user/profile/697dfcf40000000024012702"><img alt="小红书" src="https://img.shields.io/badge/%E5%B0%8F%E7%BA%A2%E4%B9%A6-%40star--nebula-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white" /></a>
-  </p>
-
-</div>
 
 ## 🧠 自己紹介
 
@@ -261,21 +235,6 @@
 <details>
 <summary><b>🇰🇷 한국어</b></summary>
 
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono:wght@600&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&height=60&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C%20star-nebula%20%EC%9E%85%EB%8B%88%EB%8B%A4%20%F0%9F%8C%8C;AI%20%EC%97%90%EA%B2%8C%20%EB%8F%84%EA%B5%AC%20%EA%B0%84%20%EA%B8%B0%EC%96%B5%EC%9D%84%20%F0%9F%A7%A0;Python%20%C2%B7%20JavaScript%20%C2%B7%20Markdown;AI%20%EC%BD%94%EB%94%A9%20%EB%8F%84%EA%B5%AC%EC%9D%98%20%EC%8A%A4%ED%82%AC%EA%B3%BC%20%EA%B8%B0%EC%96%B5%20%EC%8B%9C%EC%8A%A4%ED%85%9C;%EC%9A%B0%EB%A6%AC%EB%8A%94%20%EB%AA%A8%EB%91%90%20%EB%B3%84%EC%9D%98%20%EB%AC%BC%EC%A7%88%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A1%8C%EC%8A%B5%EB%8B%88%EB%8B%A4%20%E2%9C%A8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono:wght@600&size=26&duration=3000&pause=1200&color=0969DA&center=true&vCenter=true&width=650&height=60&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C%20star-nebula%20%EC%9E%85%EB%8B%88%EB%8B%A4%20%F0%9F%8C%8C;AI%20%EC%97%90%EA%B2%8C%20%EB%8F%84%EA%B5%AC%20%EA%B0%84%20%EA%B8%B0%EC%96%B5%EC%9D%84%20%F0%9F%A7%A0;Python%20%C2%B7%20JavaScript%20%C2%B7%20Markdown;AI%20%EC%BD%94%EB%94%A9%20%EB%8F%84%EA%B5%AC%EC%9D%98%20%EC%8A%A4%ED%82%AC%EA%B3%BC%20%EA%B8%B0%EC%96%B5%20%EC%8B%9C%EC%8A%A4%ED%85%9C;%EC%9A%B0%EB%A6%AC%EB%8A%94%20%EB%AA%A8%EB%91%90%20%EB%B3%84%EC%9D%98%20%EB%AC%BC%EC%A7%88%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A1%8C%EC%8A%B5%EB%8B%88%EB%8B%A4%20%E2%9C%A8" />
-    <img alt="typewriter" src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono:wght@600&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&height=60&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C%20star-nebula%20%EC%9E%85%EB%8B%88%EB%8B%A4%20%F0%9F%8C%8C;AI%20%EC%97%90%EA%B2%8C%20%EB%8F%84%EA%B5%AC%20%EA%B0%84%20%EA%B8%B0%EC%96%B5%EC%9D%84%20%F0%9F%A7%A0;Python%20%C2%B7%20JavaScript%20%C2%B7%20Markdown;AI%20%EC%BD%94%EB%94%A9%20%EB%8F%84%EA%B5%AC%EC%9D%98%20%EC%8A%A4%ED%82%AC%EA%B3%BC%20%EA%B8%B0%EC%96%B5%20%EC%8B%9C%EC%8A%A4%ED%85%9C;%EC%9A%B0%EB%A6%AC%EB%8A%94%20%EB%AA%A8%EB%91%90%20%EB%B3%84%EC%9D%98%20%EB%AC%BC%EC%A7%88%EB%A1%9C%20%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A1%8C%EC%8A%B5%EB%8B%88%EB%8B%A4%20%E2%9C%A8" />
-  </picture>
-
-  <p>
-    <a href="https://star-nebula.github.io/knowledge/"><img alt="Blog" src="https://img.shields.io/badge/Blog-%E7%9F%A5%E8%AF%86%E5%BA%93-58A6FF?style=flat-square" /></a>
-    <a href="https://www.xiaohongshu.com/user/profile/697dfcf40000000024012702"><img alt="小红书" src="https://img.shields.io/badge/%E5%B0%8F%E7%BA%A2%E4%B9%A6-%40star--nebula-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white" /></a>
-  </p>
-
-</div>
-
 ## 🧠 자기소개
 
 - 🔭 만들고 있는 것: **도구 간 AI 메모리 볼트**와 **AI 코딩 도구의 스킬 관리** — 모든 AI CLI가 기억하고 찾도록
@@ -344,21 +303,6 @@
 
 <details>
 <summary><b>🇪🇸 Español</b></summary>
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono:wght@600&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&height=60&lines=%C2%A1Hola%21%20Soy%20star-nebula%20%F0%9F%8C%8C;Memoria%20multi-herramienta%20para%20la%20IA%20%F0%9F%A7%A0;Python%20%C2%B7%20JavaScript%20%C2%B7%20Markdown;Trasteando%20con%20skills%20y%20memoria%20de%20IAs;Somos%20polvo%20de%20estrellas%20%E2%9C%A8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono:wght@600&size=26&duration=3000&pause=1200&color=0969DA&center=true&vCenter=true&width=650&height=60&lines=%C2%A1Hola%21%20Soy%20star-nebula%20%F0%9F%8C%8C;Memoria%20multi-herramienta%20para%20la%20IA%20%F0%9F%A7%A0;Python%20%C2%B7%20JavaScript%20%C2%B7%20Markdown;Trasteando%20con%20skills%20y%20memoria%20de%20IAs;Somos%20polvo%20de%20estrellas%20%E2%9C%A8" />
-    <img alt="typewriter" src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono:wght@600&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&height=60&lines=%C2%A1Hola%21%20Soy%20star-nebula%20%F0%9F%8C%8C;Memoria%20multi-herramienta%20para%20la%20IA%20%F0%9F%A7%A0;Python%20%C2%B7%20JavaScript%20%C2%B7%20Markdown;Trasteando%20con%20skills%20y%20memoria%20de%20IAs;Somos%20polvo%20de%20estrellas%20%E2%9C%A8" />
-  </picture>
-
-  <p>
-    <a href="https://star-nebula.github.io/knowledge/"><img alt="Blog" src="https://img.shields.io/badge/Blog-%E7%9F%A5%E8%AF%86%E5%BA%93-58A6FF?style=flat-square" /></a>
-    <a href="https://www.xiaohongshu.com/user/profile/697dfcf40000000024012702"><img alt="小红书" src="https://img.shields.io/badge/%E5%B0%8F%E7%BA%A2%E4%B9%A6-%40star--nebula-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white" /></a>
-  </p>
-
-</div>
 
 ## 🧠 Sobre mí
 
@@ -429,21 +373,6 @@
 <details>
 <summary><b>🇧🇷 Português</b></summary>
 
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono:wght@600&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&height=60&lines=Ol%C3%A1%21%20Eu%20sou%20star-nebula%20%F0%9F%8C%8C;Mem%C3%B3ria%20multi-ferramenta%20para%20a%20IA%20%F0%9F%A7%A0;Python%20%C2%B7%20JavaScript%20%C2%B7%20Markdown;Brincando%20com%20skills%20e%20mem%C3%B3ria%20de%20IAs;Somos%20todos%20poeira%20de%20estrelas%20%E2%9C%A8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono:wght@600&size=26&duration=3000&pause=1200&color=0969DA&center=true&vCenter=true&width=650&height=60&lines=Ol%C3%A1%21%20Eu%20sou%20star-nebula%20%F0%9F%8C%8C;Mem%C3%B3ria%20multi-ferramenta%20para%20a%20IA%20%F0%9F%A7%A0;Python%20%C2%B7%20JavaScript%20%C2%B7%20Markdown;Brincando%20com%20skills%20e%20mem%C3%B3ria%20de%20IAs;Somos%20todos%20poeira%20de%20estrelas%20%E2%9C%A8" />
-    <img alt="typewriter" src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono:wght@600&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&height=60&lines=Ol%C3%A1%21%20Eu%20sou%20star-nebula%20%F0%9F%8C%8C;Mem%C3%B3ria%20multi-ferramenta%20para%20a%20IA%20%F0%9F%A7%A0;Python%20%C2%B7%20JavaScript%20%C2%B7%20Markdown;Brincando%20com%20skills%20e%20mem%C3%B3ria%20de%20IAs;Somos%20todos%20poeira%20de%20estrelas%20%E2%9C%A8" />
-  </picture>
-
-  <p>
-    <a href="https://star-nebula.github.io/knowledge/"><img alt="Blog" src="https://img.shields.io/badge/Blog-%E7%9F%A5%E8%AF%86%E5%BA%93-58A6FF?style=flat-square" /></a>
-    <a href="https://www.xiaohongshu.com/user/profile/697dfcf40000000024012702"><img alt="小红书" src="https://img.shields.io/badge/%E5%B0%8F%E7%BA%A2%E4%B9%A6-%40star--nebula-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white" /></a>
-  </p>
-
-</div>
-
 ## 🧠 Sobre mim
 
 - 🔭 Construindo: um **cofre de memória de IA entre ferramentas** e **gestão de skills para ferramentas de código com IA**
@@ -512,21 +441,6 @@
 
 <details>
 <summary><b>🇷🇺 Русский</b></summary>
-
-<div align="center">
-
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono:wght@600&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&height=60&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C%20%D1%8F%20star-nebula%20%F0%9F%8C%8C;%D0%9A%D1%80%D0%BE%D1%81%D1%81-%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C%20%D0%B4%D0%BB%D1%8F%20%D0%98%D0%98%20%F0%9F%A7%A0;Python%20%C2%B7%20JavaScript%20%C2%B7%20Markdown;%D0%9A%D0%BE%D0%BF%D0%B0%D1%8E%D1%81%D1%8C%20%D0%B2%20%D0%BD%D0%B0%D0%B2%D1%8B%D0%BA%D0%B0%D1%85%20%D0%B8%20%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%B8%20%D0%98%D0%98-%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D0%BE%D0%B2;%D0%9C%D1%8B%20%D0%B2%D1%81%D1%91%20%E2%80%94%20%D0%B7%D0%B2%D1%91%D0%B7%D0%B4%D0%BD%D0%B0%D1%8F%20%D0%BF%D1%8B%D0%BB%D1%8C%20%E2%9C%A8" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono:wght@600&size=26&duration=3000&pause=1200&color=0969DA&center=true&vCenter=true&width=650&height=60&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C%20%D1%8F%20star-nebula%20%F0%9F%8C%8C;%D0%9A%D1%80%D0%BE%D1%81%D1%81-%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C%20%D0%B4%D0%BB%D1%8F%20%D0%98%D0%98%20%F0%9F%A7%A0;Python%20%C2%B7%20JavaScript%20%C2%B7%20Markdown;%D0%9A%D0%BE%D0%BF%D0%B0%D1%8E%D1%81%D1%8C%20%D0%B2%20%D0%BD%D0%B0%D0%B2%D1%8B%D0%BA%D0%B0%D1%85%20%D0%B8%20%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%B8%20%D0%98%D0%98-%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D0%BE%D0%B2;%D0%9C%D1%8B%20%D0%B2%D1%81%D1%91%20%E2%80%94%20%D0%B7%D0%B2%D1%91%D0%B7%D0%B4%D0%BD%D0%B0%D1%8F%20%D0%BF%D1%8B%D0%BB%D1%8C%20%E2%9C%A8" />
-    <img alt="typewriter" src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono:wght@600&size=26&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&height=60&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C%20%D1%8F%20star-nebula%20%F0%9F%8C%8C;%D0%9A%D1%80%D0%BE%D1%81%D1%81-%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D0%BD%D0%B0%D1%8F%20%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D1%8C%20%D0%B4%D0%BB%D1%8F%20%D0%98%D0%98%20%F0%9F%A7%A0;Python%20%C2%B7%20JavaScript%20%C2%B7%20Markdown;%D0%9A%D0%BE%D0%BF%D0%B0%D1%8E%D1%81%D1%8C%20%D0%B2%20%D0%BD%D0%B0%D0%B2%D1%8B%D0%BA%D0%B0%D1%85%20%D0%B8%20%D0%BF%D0%B0%D0%BC%D1%8F%D1%82%D0%B8%20%D0%98%D0%98-%D0%B0%D0%B3%D0%B5%D0%BD%D1%82%D0%BE%D0%B2;%D0%9C%D1%8B%20%D0%B2%D1%81%D1%91%20%E2%80%94%20%D0%B7%D0%B2%D1%91%D0%B7%D0%B4%D0%BD%D0%B0%D1%8F%20%D0%BF%D1%8B%D0%BB%D1%8C%20%E2%9C%A8" />
-  </picture>
-
-  <p>
-    <a href="https://star-nebula.github.io/knowledge/"><img alt="Blog" src="https://img.shields.io/badge/Blog-%E7%9F%A5%E8%AF%86%E5%BA%93-58A6FF?style=flat-square" /></a>
-    <a href="https://www.xiaohongshu.com/user/profile/697dfcf40000000024012702"><img alt="小红书" src="https://img.shields.io/badge/%E5%B0%8F%E7%BA%A2%E4%B9%A6-%40star--nebula-FF2442?style=flat-square&logo=xiaohongshu&logoColor=white" /></a>
-  </p>
-
-</div>
 
 ## 🧠 Обо мне
 
