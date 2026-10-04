@@ -36,16 +36,6 @@
 - 💬 Happy to talk about: AI agents · Obsidian · memory systems · LLM · plain-Markdown workflows
 - ⚡ Daily kit: Obsidian + a bunch of AI coding CLIs + Markdown for everything
 
-## 🚀 What I'm building
-
-| Project | In one line |
-| ---- | ---------- |
-| [🧠 ai-memory-vault](https://github.com/star-nebula/ai-memory-vault) | Cross-tool AI memory vault: plain-Markdown folder + rule system + gate scripts, nearly zero-config |
-| [🛠️ skill-workbench](https://github.com/star-nebula/skill-workbench) | Unified skill workbench for AI coding tools — consolidates skills scattered across tool dirs; zero-dependency single-file Node service |
-| [📝 WebNote-Workflow](https://github.com/star-nebula/WebNote-Workflow) | Four-step webpage → note workflow; hand it to any AI tool and it just runs |
-| [📚 star-LLM-wiki](https://github.com/star-nebula/star-LLM-wiki) | Personal LLM wiki based on karpathy's LLM-wiki |
-| [💼 JobForge-workbench](https://github.com/star-nebula/JobForge-workbench) | Local job-hunting workbench: résumé → keywords → job scraping → match ranking |
-
 ## 🛠️ Tech Stack
 
 <!-- ✏️ 每个图标一行 <a>，href 改成想跳的链接；增删图标照任意一行复制，可用图标名见 https://skillicons.dev/icons -->
@@ -73,16 +63,6 @@
 - 📝 想法和沉淀都放在 [知识库 / 博客](https://star-nebula.github.io/knowledge/) 里
 - 💬 可以找我聊：AI agents · Obsidian · 记忆系统 · LLM · 纯 Markdown 工作流
 - ⚡ 日常装备：Obsidian + 一堆 AI 编码 CLI + Markdown 的一切
-
-## 🚀 我在做的事
-
-| 项目 | 一句话介绍 |
-| ---- | ---------- |
-| [🧠 ai-memory-vault](https://github.com/star-nebula/ai-memory-vault) | 跨工具 AI 记忆库：纯 Markdown 目录 + 规则体系 + 门禁脚本，几乎零配置 |
-| [🛠️ skill-workbench](https://github.com/star-nebula/skill-workbench) | 把散落在多个 AI 编码工具里的 skill 收敛成一张总表，零依赖 Node 单文件服务 |
-| [📝 WebNote-Workflow](https://github.com/star-nebula/WebNote-Workflow) | 网页笔记四步工作流，扔给任何 AI 工具就能自动跑起来 |
-| [📚 star-LLM-wiki](https://github.com/star-nebula/star-LLM-wiki) | 基于 karpathy LLM-wiki 优化的个人 LLM wiki |
-| [💼 JobForge-workbench](https://github.com/star-nebula/JobForge-workbench) | 本地求职工作台：简历 → 关键词 → 岗位抓取 → 匹配排序 |
 
 ## 🛠️ 技术栈
 
@@ -112,16 +92,6 @@
 - 💬 話せる話題：AI agents · Obsidian · 記憶システム · LLM · 純 Markdown ワークフロー
 - ⚡ 日常装備：Obsidian + たくさんの AI コーディング CLI + すべては Markdown
 
-## 🚀 作っているもの
-
-| プロジェクト | ひとこと紹介 |
-| ---- | ---------- |
-| [🧠 ai-memory-vault](https://github.com/star-nebula/ai-memory-vault) | ツール横断 AI メモリボックス：純 Markdown ディレクトリ + ルール + ゲートスクリプト、ほぼゼロ設定 |
-| [🛠️ skill-workbench](https://github.com/star-nebula/skill-workbench) | AI コーディング工具の Skill 統合ワークベンチ：散らばった skill を 1 枚の総表に。依存ゼロの Node 単ファイルサービス |
-| [📝 WebNote-Workflow](https://github.com/star-nebula/WebNote-Workflow) | ウェブページ → ノートの 4 ステップ ワークフロー。どの AI 工具に投げても動く |
-| [📚 star-LLM-wiki](https://github.com/star-nebula/star-LLM-wiki) | karpathy の LLM-wiki を改良した個人 LLM wiki |
-| [💼 JobForge-workbench](https://github.com/star-nebula/JobForge-workbench) | ローカル就活ワークベンチ：履歴書 → キーワード → 求人スクレイピング → マッチング順位 |
-
 ## 🛠️ 技術スタック
 
 <!-- ✏️ 每个图标一行 <a>，href 改成想跳的链接；增删图标照任意一行复制，可用图标名见 https://skillicons.dev/icons -->
@@ -149,16 +119,6 @@
 - 📝 생각과 기록은 [지식 베이스 / 블로그](https://star-nebula.github.io/knowledge/)에
 - 💬 같이 이야기할 것: AI agents · Obsidian · 기억 시스템 · LLM · 순수 Markdown 워크플로
 - ⚡ 일상 장비: Obsidian + 수많은 AI 코딩 CLI + 모든 것은 Markdown
-
-## 🚀 내가 하는 일
-
-| 프로젝트 | 한 줄 소개 |
-| ---- | ---------- |
-| [🧠 ai-memory-vault](https://github.com/star-nebula/ai-memory-vault) | 도구 간 AI 메모리 볼트: 순수 Markdown 폴더 + 규칙 체계 + 게이트 스크립트, 거의 무설정 |
-| [🛠️ skill-workbench](https://github.com/star-nebula/skill-workbench) | AI 코딩 도구용 스킬 통합 워크벤치 — 흩어진 스킬을 한 표로. 의존성 없는 Node 단일 파일 서비스 |
-| [📝 WebNote-Workflow](https://github.com/star-nebula/WebNote-Workflow) | 웹페이지 → 노트 4단계 워크플로. 어떤 AI 도구에 던져도 바로 동작 |
-| [📚 star-LLM-wiki](https://github.com/star-nebula/star-LLM-wiki) | karpathy의 LLM-wiki 기반 개인 LLM 위키 |
-| [💼 JobForge-workbench](https://github.com/star-nebula/JobForge-workbench) | 로컬 취업 워크벤치: 이력서 → 키워드 → 채용 스크래핑 → 매칭 순위 |
 
 ## 🛠️ 기술 스택
 
@@ -188,16 +148,6 @@
 - 💬 Charlamos de: agentes de IA · Obsidian · sistemas de memoria · LLM · flujos 100% Markdown
 - ⚡ Equipo diario: Obsidian + un puñado de CLIs de IA + Markdown para todo
 
-## 🚀 En lo que trabajo
-
-| Proyecto | En una frase |
-| ---- | ---------- |
-| [🧠 ai-memory-vault](https://github.com/star-nebula/ai-memory-vault) | Bóveda de memoria IA entre herramientas: carpeta Markdown + reglas + scripts guardián, casi cero configuración |
-| [🛠️ skill-workbench](https://github.com/star-nebula/skill-workbench) | Bancada unificada de skills para herramientas de codificación IA: consolida skills dispersos en una tabla; servicio Node de un solo archivo, sin dependencias |
-| [📝 WebNote-Workflow](https://github.com/star-nebula/WebNote-Workflow) | Flujo de 4 pasos página web → nota; dáselo a cualquier herramienta de IA y funciona |
-| [📚 star-LLM-wiki](https://github.com/star-nebula/star-LLM-wiki) | Wiki personal de LLM basada en LLM-wiki de karpathy |
-| [💼 JobForge-workbench](https://github.com/star-nebula/JobForge-workbench) | Bancada local de búsqueda de empleo: CV → palabras clave → scraping de ofertas → ranking de coincidencias |
-
 ## 🛠️ Stack técnico
 
 <!-- ✏️ 每个图标一行 <a>，href 改成想跳的链接；增删图标照任意一行复制，可用图标名见 https://skillicons.dev/icons -->
@@ -226,16 +176,6 @@
 - 💬 Bate-papo sobre: agentes de IA · Obsidian · sistemas de memória · LLM · fluxos 100% Markdown
 - ⚡ Kit diário: Obsidian + um monte de CLIs de IA + Markdown para tudo
 
-## 🚀 No que estou trabalhando
-
-| Projeto | Em uma frase |
-| ---- | ---------- |
-| [🧠 ai-memory-vault](https://github.com/star-nebula/ai-memory-vault) | Cofre de memória de IA entre ferramentas: pasta Markdown + regras + scripts de verificação, quase zero configuração |
-| [🛠️ skill-workbench](https://github.com/star-nebula/skill-workbench) | Bancada unificada de skills para ferramentas de código IA — consolida skills espalhados numa tabela; serviço Node de arquivo único, sem dependências |
-| [📝 WebNote-Workflow](https://github.com/star-nebula/WebNote-Workflow) | Fluxo de 4 passos página web → nota; entregue a qualquer ferramenta de IA e ela roda |
-| [📚 star-LLM-wiki](https://github.com/star-nebula/star-LLM-wiki) | Wiki pessoal de LLM baseada no LLM-wiki do karpathy |
-| [💼 JobForge-workbench](https://github.com/star-nebula/JobForge-workbench) | Bancada local de busca de emprego: currículo → palavras-chave → scraping de vagas → ranking de match |
-
 ## 🛠️ Stack técnico
 
 <!-- ✏️ 每个图标一行 <a>，href 改成想跳的链接；增删图标照任意一行复制，可用图标名见 https://skillicons.dev/icons -->
@@ -263,16 +203,6 @@
 - 📝 Мысли и заметки — в [базе знаний / блоге](https://star-nebula.github.io/knowledge/)
 - 💬 Поговорим про: ИИ-агентов · Obsidian · системы памяти · LLM · рабочие процессы на чистом Markdown
 - ⚡ Ежедневный набор: Obsidian + куча ИИ-CLI + Markdown для всего
-
-## 🚀 Чем занимаюсь
-
-| Проект | Одной фразой |
-| ---- | ---------- |
-| [🧠 ai-memory-vault](https://github.com/star-nebula/ai-memory-vault) | Кросс-инструментная память для ИИ: папка Markdown + правила + скрипты-стражи, почти нулевая настройка |
-| [🛠️ skill-workbench](https://github.com/star-nebula/skill-workbench) | Единая мастерская навыков для ИИ-инструментов кодирования — собирает разбросанные скиллы в одну таблицу; Node-сервис из одного файла без зависимостей |
-| [📝 WebNote-Workflow](https://github.com/star-nebula/WebNote-Workflow) | Воркфлоу из 4 шагов: веб-страница → заметка; бросьте любому ИИ-инструменту — и он всё сделает |
-| [📚 star-LLM-wiki](https://github.com/star-nebula/star-LLM-wiki) | Личная LLM-вики на основе LLM-wiki karpathy |
-| [💼 JobForge-workbench](https://github.com/star-nebula/JobForge-workbench) | Локальный верстак для поиска работы: резюме → ключевые слова → скрейпинг вакансий → рейтинг соответствия |
 
 ## 🛠️ Технологии
 
