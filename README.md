@@ -49,15 +49,23 @@
   <a href="https://git-scm.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git&theme=light" /><img alt="Git" src="https://skillicons.dev/icons?i=git&theme=dark" /></picture></a>
   <a href="https://github.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github&theme=light" /><img alt="GitHub" src="https://skillicons.dev/icons?i=github&theme=dark" /></picture></a>
   <a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light" /><img alt="VSCode" src="https://skillicons.dev/icons?i=vscode&theme=dark" /></picture></a>
+  <a href="https://pytorch.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch&theme=light" /><img alt="PyTorch" src="https://skillicons.dev/icons?i=pytorch&theme=dark" /></picture></a>
+  <a href="https://redis.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=redis&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=redis&theme=light" /><img alt="Redis" src="https://skillicons.dev/icons?i=redis&theme=dark" /></picture></a>
+  <a href="https://fastapi.tiangolo.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=fastapi&theme=light" /><img alt="FastAPI" src="https://skillicons.dev/icons?i=fastapi&theme=dark" /></picture></a>
+  <a href="https://www.mysql.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql&theme=light" /><img alt="MySQL" src="https://skillicons.dev/icons?i=mysql&theme=dark" /></picture></a>
+  <a href="https://www.docker.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker&theme=light" /><img alt="Docker" src="https://skillicons.dev/icons?i=docker&theme=dark" /></picture></a>
+  <a href="https://www.langchain.com/langgraph"><img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" /></a>
+  <a href="https://www.deepseek.com/"><img alt="DeepSeek" src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" /></a>
+  <a href="https://www.promptingguide.ai/techniques/react"><img alt="ReAct" src="https://img.shields.io/badge/ReAct-D97757?style=flat-square" /></a>
+  <a href="https://docs.vllm.ai/"><img alt="vLLM" src="https://img.shields.io/badge/vLLM-6D5BD0?style=flat-square&logo=vllm&logoColor=white" /></a>
+  <a href="https://huggingface.co/docs/peft/conceptual_guides/lora"><img alt="LoRA" src="https://img.shields.io/badge/LoRA-A259FF?style=flat-square" /></a>
+  <a href="https://modelcontextprotocol.io/"><img alt="MCP" src="https://img.shields.io/badge/MCP-E8590C?style=flat-square" /></a>
+  <a href="https://huggingface.co/docs/transformers/model_doc/bert"><img alt="BERT" src="https://img.shields.io/badge/BERT-1F4E79?style=flat-square" /></a>
+  <a href="https://huggingface.co/"><img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-D97706?style=flat-square&logo=huggingface&logoColor=white" /></a>
+  <a href="https://fasttext.cc/"><img alt="FastText" src="https://img.shields.io/badge/FastText-0EA5E9?style=flat-square" /></a>
+  <a href="https://milvus.io/"><img alt="Milvus" src="https://img.shields.io/badge/Milvus-0284C7?style=flat-square&logo=milvus&logoColor=white" /></a>
+  <a href="https://streamlit.io/"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /></a>
 </div>
-
-### 🤖 AI / LLM Stack
-
-| Category | Tools |
-| --- | --- |
-| LLM & Multi-Agent | LangGraph · DeepSeek · ReAct · vLLM · LoRA · MCP |
-| NLP & Deep Learning | PyTorch · BERT · HuggingFace · Model Compression · FastText |
-| Engineering & Tools | Milvus · Redis · FastAPI · MySQL · Docker · Streamlit |
 
 </details>
 
@@ -85,15 +93,23 @@
   <a href="https://git-scm.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git&theme=light" /><img alt="Git" src="https://skillicons.dev/icons?i=git&theme=dark" /></picture></a>
   <a href="https://github.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github&theme=light" /><img alt="GitHub" src="https://skillicons.dev/icons?i=github&theme=dark" /></picture></a>
   <a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light" /><img alt="VSCode" src="https://skillicons.dev/icons?i=vscode&theme=dark" /></picture></a>
+  <a href="https://pytorch.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch&theme=light" /><img alt="PyTorch" src="https://skillicons.dev/icons?i=pytorch&theme=dark" /></picture></a>
+  <a href="https://redis.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=redis&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=redis&theme=light" /><img alt="Redis" src="https://skillicons.dev/icons?i=redis&theme=dark" /></picture></a>
+  <a href="https://fastapi.tiangolo.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=fastapi&theme=light" /><img alt="FastAPI" src="https://skillicons.dev/icons?i=fastapi&theme=dark" /></picture></a>
+  <a href="https://www.mysql.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql&theme=light" /><img alt="MySQL" src="https://skillicons.dev/icons?i=mysql&theme=dark" /></picture></a>
+  <a href="https://www.docker.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker&theme=light" /><img alt="Docker" src="https://skillicons.dev/icons?i=docker&theme=dark" /></picture></a>
+  <a href="https://www.langchain.com/langgraph"><img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" /></a>
+  <a href="https://www.deepseek.com/"><img alt="DeepSeek" src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" /></a>
+  <a href="https://www.promptingguide.ai/techniques/react"><img alt="ReAct" src="https://img.shields.io/badge/ReAct-D97757?style=flat-square" /></a>
+  <a href="https://docs.vllm.ai/"><img alt="vLLM" src="https://img.shields.io/badge/vLLM-6D5BD0?style=flat-square&logo=vllm&logoColor=white" /></a>
+  <a href="https://huggingface.co/docs/peft/conceptual_guides/lora"><img alt="LoRA" src="https://img.shields.io/badge/LoRA-A259FF?style=flat-square" /></a>
+  <a href="https://modelcontextprotocol.io/"><img alt="MCP" src="https://img.shields.io/badge/MCP-E8590C?style=flat-square" /></a>
+  <a href="https://huggingface.co/docs/transformers/model_doc/bert"><img alt="BERT" src="https://img.shields.io/badge/BERT-1F4E79?style=flat-square" /></a>
+  <a href="https://huggingface.co/"><img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-D97706?style=flat-square&logo=huggingface&logoColor=white" /></a>
+  <a href="https://fasttext.cc/"><img alt="FastText" src="https://img.shields.io/badge/FastText-0EA5E9?style=flat-square" /></a>
+  <a href="https://milvus.io/"><img alt="Milvus" src="https://img.shields.io/badge/Milvus-0284C7?style=flat-square&logo=milvus&logoColor=white" /></a>
+  <a href="https://streamlit.io/"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /></a>
 </div>
-
-### 🤖 AI / LLM 技术栈
-
-| 分类 | 工具 |
-| --- | --- |
-| 大模型 & 多 Agent | LangGraph · DeepSeek · ReAct · vLLM · LoRA · MCP |
-| NLP & 深度学习 | PyTorch · BERT · HuggingFace · 模型压缩 · FastText |
-| 工程 & 工具 | Milvus · Redis · FastAPI · MySQL · Docker · Streamlit |
 
 </details>
 
@@ -121,15 +137,23 @@
   <a href="https://git-scm.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git&theme=light" /><img alt="Git" src="https://skillicons.dev/icons?i=git&theme=dark" /></picture></a>
   <a href="https://github.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github&theme=light" /><img alt="GitHub" src="https://skillicons.dev/icons?i=github&theme=dark" /></picture></a>
   <a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light" /><img alt="VSCode" src="https://skillicons.dev/icons?i=vscode&theme=dark" /></picture></a>
+  <a href="https://pytorch.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch&theme=light" /><img alt="PyTorch" src="https://skillicons.dev/icons?i=pytorch&theme=dark" /></picture></a>
+  <a href="https://redis.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=redis&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=redis&theme=light" /><img alt="Redis" src="https://skillicons.dev/icons?i=redis&theme=dark" /></picture></a>
+  <a href="https://fastapi.tiangolo.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=fastapi&theme=light" /><img alt="FastAPI" src="https://skillicons.dev/icons?i=fastapi&theme=dark" /></picture></a>
+  <a href="https://www.mysql.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql&theme=light" /><img alt="MySQL" src="https://skillicons.dev/icons?i=mysql&theme=dark" /></picture></a>
+  <a href="https://www.docker.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker&theme=light" /><img alt="Docker" src="https://skillicons.dev/icons?i=docker&theme=dark" /></picture></a>
+  <a href="https://www.langchain.com/langgraph"><img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" /></a>
+  <a href="https://www.deepseek.com/"><img alt="DeepSeek" src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" /></a>
+  <a href="https://www.promptingguide.ai/techniques/react"><img alt="ReAct" src="https://img.shields.io/badge/ReAct-D97757?style=flat-square" /></a>
+  <a href="https://docs.vllm.ai/"><img alt="vLLM" src="https://img.shields.io/badge/vLLM-6D5BD0?style=flat-square&logo=vllm&logoColor=white" /></a>
+  <a href="https://huggingface.co/docs/peft/conceptual_guides/lora"><img alt="LoRA" src="https://img.shields.io/badge/LoRA-A259FF?style=flat-square" /></a>
+  <a href="https://modelcontextprotocol.io/"><img alt="MCP" src="https://img.shields.io/badge/MCP-E8590C?style=flat-square" /></a>
+  <a href="https://huggingface.co/docs/transformers/model_doc/bert"><img alt="BERT" src="https://img.shields.io/badge/BERT-1F4E79?style=flat-square" /></a>
+  <a href="https://huggingface.co/"><img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-D97706?style=flat-square&logo=huggingface&logoColor=white" /></a>
+  <a href="https://fasttext.cc/"><img alt="FastText" src="https://img.shields.io/badge/FastText-0EA5E9?style=flat-square" /></a>
+  <a href="https://milvus.io/"><img alt="Milvus" src="https://img.shields.io/badge/Milvus-0284C7?style=flat-square&logo=milvus&logoColor=white" /></a>
+  <a href="https://streamlit.io/"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /></a>
 </div>
-
-### 🤖 AI / LLM スタック
-
-| カテゴリ | ツール |
-| --- | --- |
-| LLM & マルチエージェント | LangGraph · DeepSeek · ReAct · vLLM · LoRA · MCP |
-| NLP & 深層学習 | PyTorch · BERT · HuggingFace · モデル圧縮 · FastText |
-| エンジニアリング & ツール | Milvus · Redis · FastAPI · MySQL · Docker · Streamlit |
 
 </details>
 
@@ -157,15 +181,23 @@
   <a href="https://git-scm.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git&theme=light" /><img alt="Git" src="https://skillicons.dev/icons?i=git&theme=dark" /></picture></a>
   <a href="https://github.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github&theme=light" /><img alt="GitHub" src="https://skillicons.dev/icons?i=github&theme=dark" /></picture></a>
   <a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light" /><img alt="VSCode" src="https://skillicons.dev/icons?i=vscode&theme=dark" /></picture></a>
+  <a href="https://pytorch.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch&theme=light" /><img alt="PyTorch" src="https://skillicons.dev/icons?i=pytorch&theme=dark" /></picture></a>
+  <a href="https://redis.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=redis&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=redis&theme=light" /><img alt="Redis" src="https://skillicons.dev/icons?i=redis&theme=dark" /></picture></a>
+  <a href="https://fastapi.tiangolo.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=fastapi&theme=light" /><img alt="FastAPI" src="https://skillicons.dev/icons?i=fastapi&theme=dark" /></picture></a>
+  <a href="https://www.mysql.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql&theme=light" /><img alt="MySQL" src="https://skillicons.dev/icons?i=mysql&theme=dark" /></picture></a>
+  <a href="https://www.docker.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker&theme=light" /><img alt="Docker" src="https://skillicons.dev/icons?i=docker&theme=dark" /></picture></a>
+  <a href="https://www.langchain.com/langgraph"><img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" /></a>
+  <a href="https://www.deepseek.com/"><img alt="DeepSeek" src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" /></a>
+  <a href="https://www.promptingguide.ai/techniques/react"><img alt="ReAct" src="https://img.shields.io/badge/ReAct-D97757?style=flat-square" /></a>
+  <a href="https://docs.vllm.ai/"><img alt="vLLM" src="https://img.shields.io/badge/vLLM-6D5BD0?style=flat-square&logo=vllm&logoColor=white" /></a>
+  <a href="https://huggingface.co/docs/peft/conceptual_guides/lora"><img alt="LoRA" src="https://img.shields.io/badge/LoRA-A259FF?style=flat-square" /></a>
+  <a href="https://modelcontextprotocol.io/"><img alt="MCP" src="https://img.shields.io/badge/MCP-E8590C?style=flat-square" /></a>
+  <a href="https://huggingface.co/docs/transformers/model_doc/bert"><img alt="BERT" src="https://img.shields.io/badge/BERT-1F4E79?style=flat-square" /></a>
+  <a href="https://huggingface.co/"><img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-D97706?style=flat-square&logo=huggingface&logoColor=white" /></a>
+  <a href="https://fasttext.cc/"><img alt="FastText" src="https://img.shields.io/badge/FastText-0EA5E9?style=flat-square" /></a>
+  <a href="https://milvus.io/"><img alt="Milvus" src="https://img.shields.io/badge/Milvus-0284C7?style=flat-square&logo=milvus&logoColor=white" /></a>
+  <a href="https://streamlit.io/"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /></a>
 </div>
-
-### 🤖 AI / LLM 스택
-
-| 분류 | 도구 |
-| --- | --- |
-| LLM & 멀티 에이전트 | LangGraph · DeepSeek · ReAct · vLLM · LoRA · MCP |
-| NLP & 딥러닝 | PyTorch · BERT · HuggingFace · 모델 압축 · FastText |
-| 엔지니어링 & 도구 | Milvus · Redis · FastAPI · MySQL · Docker · Streamlit |
 
 </details>
 
@@ -193,15 +225,23 @@
   <a href="https://git-scm.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git&theme=light" /><img alt="Git" src="https://skillicons.dev/icons?i=git&theme=dark" /></picture></a>
   <a href="https://github.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github&theme=light" /><img alt="GitHub" src="https://skillicons.dev/icons?i=github&theme=dark" /></picture></a>
   <a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light" /><img alt="VSCode" src="https://skillicons.dev/icons?i=vscode&theme=dark" /></picture></a>
+  <a href="https://pytorch.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch&theme=light" /><img alt="PyTorch" src="https://skillicons.dev/icons?i=pytorch&theme=dark" /></picture></a>
+  <a href="https://redis.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=redis&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=redis&theme=light" /><img alt="Redis" src="https://skillicons.dev/icons?i=redis&theme=dark" /></picture></a>
+  <a href="https://fastapi.tiangolo.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=fastapi&theme=light" /><img alt="FastAPI" src="https://skillicons.dev/icons?i=fastapi&theme=dark" /></picture></a>
+  <a href="https://www.mysql.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql&theme=light" /><img alt="MySQL" src="https://skillicons.dev/icons?i=mysql&theme=dark" /></picture></a>
+  <a href="https://www.docker.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker&theme=light" /><img alt="Docker" src="https://skillicons.dev/icons?i=docker&theme=dark" /></picture></a>
+  <a href="https://www.langchain.com/langgraph"><img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" /></a>
+  <a href="https://www.deepseek.com/"><img alt="DeepSeek" src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" /></a>
+  <a href="https://www.promptingguide.ai/techniques/react"><img alt="ReAct" src="https://img.shields.io/badge/ReAct-D97757?style=flat-square" /></a>
+  <a href="https://docs.vllm.ai/"><img alt="vLLM" src="https://img.shields.io/badge/vLLM-6D5BD0?style=flat-square&logo=vllm&logoColor=white" /></a>
+  <a href="https://huggingface.co/docs/peft/conceptual_guides/lora"><img alt="LoRA" src="https://img.shields.io/badge/LoRA-A259FF?style=flat-square" /></a>
+  <a href="https://modelcontextprotocol.io/"><img alt="MCP" src="https://img.shields.io/badge/MCP-E8590C?style=flat-square" /></a>
+  <a href="https://huggingface.co/docs/transformers/model_doc/bert"><img alt="BERT" src="https://img.shields.io/badge/BERT-1F4E79?style=flat-square" /></a>
+  <a href="https://huggingface.co/"><img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-D97706?style=flat-square&logo=huggingface&logoColor=white" /></a>
+  <a href="https://fasttext.cc/"><img alt="FastText" src="https://img.shields.io/badge/FastText-0EA5E9?style=flat-square" /></a>
+  <a href="https://milvus.io/"><img alt="Milvus" src="https://img.shields.io/badge/Milvus-0284C7?style=flat-square&logo=milvus&logoColor=white" /></a>
+  <a href="https://streamlit.io/"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /></a>
 </div>
-
-### 🤖 Stack de IA / LLM
-
-| Categoría | Herramientas |
-| --- | --- |
-| LLM y multiagente | LangGraph · DeepSeek · ReAct · vLLM · LoRA · MCP |
-| NLP y aprendizaje profundo | PyTorch · BERT · HuggingFace · Compresión de modelos · FastText |
-| Ingeniería y herramientas | Milvus · Redis · FastAPI · MySQL · Docker · Streamlit |
 
 </details>
 
@@ -229,15 +269,23 @@
   <a href="https://git-scm.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git&theme=light" /><img alt="Git" src="https://skillicons.dev/icons?i=git&theme=dark" /></picture></a>
   <a href="https://github.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github&theme=light" /><img alt="GitHub" src="https://skillicons.dev/icons?i=github&theme=dark" /></picture></a>
   <a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light" /><img alt="VSCode" src="https://skillicons.dev/icons?i=vscode&theme=dark" /></picture></a>
+  <a href="https://pytorch.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch&theme=light" /><img alt="PyTorch" src="https://skillicons.dev/icons?i=pytorch&theme=dark" /></picture></a>
+  <a href="https://redis.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=redis&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=redis&theme=light" /><img alt="Redis" src="https://skillicons.dev/icons?i=redis&theme=dark" /></picture></a>
+  <a href="https://fastapi.tiangolo.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=fastapi&theme=light" /><img alt="FastAPI" src="https://skillicons.dev/icons?i=fastapi&theme=dark" /></picture></a>
+  <a href="https://www.mysql.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql&theme=light" /><img alt="MySQL" src="https://skillicons.dev/icons?i=mysql&theme=dark" /></picture></a>
+  <a href="https://www.docker.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker&theme=light" /><img alt="Docker" src="https://skillicons.dev/icons?i=docker&theme=dark" /></picture></a>
+  <a href="https://www.langchain.com/langgraph"><img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" /></a>
+  <a href="https://www.deepseek.com/"><img alt="DeepSeek" src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" /></a>
+  <a href="https://www.promptingguide.ai/techniques/react"><img alt="ReAct" src="https://img.shields.io/badge/ReAct-D97757?style=flat-square" /></a>
+  <a href="https://docs.vllm.ai/"><img alt="vLLM" src="https://img.shields.io/badge/vLLM-6D5BD0?style=flat-square&logo=vllm&logoColor=white" /></a>
+  <a href="https://huggingface.co/docs/peft/conceptual_guides/lora"><img alt="LoRA" src="https://img.shields.io/badge/LoRA-A259FF?style=flat-square" /></a>
+  <a href="https://modelcontextprotocol.io/"><img alt="MCP" src="https://img.shields.io/badge/MCP-E8590C?style=flat-square" /></a>
+  <a href="https://huggingface.co/docs/transformers/model_doc/bert"><img alt="BERT" src="https://img.shields.io/badge/BERT-1F4E79?style=flat-square" /></a>
+  <a href="https://huggingface.co/"><img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-D97706?style=flat-square&logo=huggingface&logoColor=white" /></a>
+  <a href="https://fasttext.cc/"><img alt="FastText" src="https://img.shields.io/badge/FastText-0EA5E9?style=flat-square" /></a>
+  <a href="https://milvus.io/"><img alt="Milvus" src="https://img.shields.io/badge/Milvus-0284C7?style=flat-square&logo=milvus&logoColor=white" /></a>
+  <a href="https://streamlit.io/"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /></a>
 </div>
-
-### 🤖 Stack de IA / LLM
-
-| Categoria | Ferramentas |
-| --- | --- |
-| LLM e multiagente | LangGraph · DeepSeek · ReAct · vLLM · LoRA · MCP |
-| NLP e aprendizado profundo | PyTorch · BERT · HuggingFace · Compressão de modelos · FastText |
-| Engenharia e ferramentas | Milvus · Redis · FastAPI · MySQL · Docker · Streamlit |
 
 </details>
 
@@ -265,15 +313,23 @@
   <a href="https://git-scm.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git&theme=light" /><img alt="Git" src="https://skillicons.dev/icons?i=git&theme=dark" /></picture></a>
   <a href="https://github.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github&theme=light" /><img alt="GitHub" src="https://skillicons.dev/icons?i=github&theme=dark" /></picture></a>
   <a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light" /><img alt="VSCode" src="https://skillicons.dev/icons?i=vscode&theme=dark" /></picture></a>
+  <a href="https://pytorch.org/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch&theme=light" /><img alt="PyTorch" src="https://skillicons.dev/icons?i=pytorch&theme=dark" /></picture></a>
+  <a href="https://redis.io/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=redis&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=redis&theme=light" /><img alt="Redis" src="https://skillicons.dev/icons?i=redis&theme=dark" /></picture></a>
+  <a href="https://fastapi.tiangolo.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=fastapi&theme=light" /><img alt="FastAPI" src="https://skillicons.dev/icons?i=fastapi&theme=dark" /></picture></a>
+  <a href="https://www.mysql.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql&theme=light" /><img alt="MySQL" src="https://skillicons.dev/icons?i=mysql&theme=dark" /></picture></a>
+  <a href="https://www.docker.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker&theme=light" /><img alt="Docker" src="https://skillicons.dev/icons?i=docker&theme=dark" /></picture></a>
+  <a href="https://www.langchain.com/langgraph"><img alt="LangGraph" src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white" /></a>
+  <a href="https://www.deepseek.com/"><img alt="DeepSeek" src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" /></a>
+  <a href="https://www.promptingguide.ai/techniques/react"><img alt="ReAct" src="https://img.shields.io/badge/ReAct-D97757?style=flat-square" /></a>
+  <a href="https://docs.vllm.ai/"><img alt="vLLM" src="https://img.shields.io/badge/vLLM-6D5BD0?style=flat-square&logo=vllm&logoColor=white" /></a>
+  <a href="https://huggingface.co/docs/peft/conceptual_guides/lora"><img alt="LoRA" src="https://img.shields.io/badge/LoRA-A259FF?style=flat-square" /></a>
+  <a href="https://modelcontextprotocol.io/"><img alt="MCP" src="https://img.shields.io/badge/MCP-E8590C?style=flat-square" /></a>
+  <a href="https://huggingface.co/docs/transformers/model_doc/bert"><img alt="BERT" src="https://img.shields.io/badge/BERT-1F4E79?style=flat-square" /></a>
+  <a href="https://huggingface.co/"><img alt="HuggingFace" src="https://img.shields.io/badge/HuggingFace-D97706?style=flat-square&logo=huggingface&logoColor=white" /></a>
+  <a href="https://fasttext.cc/"><img alt="FastText" src="https://img.shields.io/badge/FastText-0EA5E9?style=flat-square" /></a>
+  <a href="https://milvus.io/"><img alt="Milvus" src="https://img.shields.io/badge/Milvus-0284C7?style=flat-square&logo=milvus&logoColor=white" /></a>
+  <a href="https://streamlit.io/"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" /></a>
 </div>
-
-### 🤖 Стек ИИ / LLM
-
-| Категория | Инструменты |
-| --- | --- |
-| LLM и мультиагент | LangGraph · DeepSeek · ReAct · vLLM · LoRA · MCP |
-| NLP и глубокое обучение | PyTorch · BERT · HuggingFace · Сжатие моделей · FastText |
-| Инженерия и инструменты | Milvus · Redis · FastAPI · MySQL · Docker · Streamlit |
 
 </details>
 
