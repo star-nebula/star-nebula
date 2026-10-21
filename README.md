@@ -51,6 +51,14 @@
   <a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light" /><img alt="VSCode" src="https://skillicons.dev/icons?i=vscode&theme=dark" /></picture></a>
 </div>
 
+### 🤖 AI / LLM Stack
+
+| Category | Tools |
+| --- | --- |
+| LLM & Multi-Agent | LangGraph · DeepSeek · ReAct · vLLM · LoRA · MCP |
+| NLP & Deep Learning | PyTorch · BERT · HuggingFace · Model Compression · FastText |
+| Engineering & Tools | Milvus · Redis · FastAPI · MySQL · Docker · Streamlit |
+
 </details>
 
 <details>
@@ -78,6 +86,14 @@
   <a href="https://github.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github&theme=light" /><img alt="GitHub" src="https://skillicons.dev/icons?i=github&theme=dark" /></picture></a>
   <a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light" /><img alt="VSCode" src="https://skillicons.dev/icons?i=vscode&theme=dark" /></picture></a>
 </div>
+
+### 🤖 AI / LLM 技术栈
+
+| 分类 | 工具 |
+| --- | --- |
+| 大模型 & 多 Agent | LangGraph · DeepSeek · ReAct · vLLM · LoRA · MCP |
+| NLP & 深度学习 | PyTorch · BERT · HuggingFace · 模型压缩 · FastText |
+| 工程 & 工具 | Milvus · Redis · FastAPI · MySQL · Docker · Streamlit |
 
 </details>
 
@@ -107,6 +123,14 @@
   <a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light" /><img alt="VSCode" src="https://skillicons.dev/icons?i=vscode&theme=dark" /></picture></a>
 </div>
 
+### 🤖 AI / LLM スタック
+
+| カテゴリ | ツール |
+| --- | --- |
+| LLM & マルチエージェント | LangGraph · DeepSeek · ReAct · vLLM · LoRA · MCP |
+| NLP & 深層学習 | PyTorch · BERT · HuggingFace · モデル圧縮 · FastText |
+| エンジニアリング & ツール | Milvus · Redis · FastAPI · MySQL · Docker · Streamlit |
+
 </details>
 
 <details>
@@ -134,6 +158,14 @@
   <a href="https://github.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github&theme=light" /><img alt="GitHub" src="https://skillicons.dev/icons?i=github&theme=dark" /></picture></a>
   <a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light" /><img alt="VSCode" src="https://skillicons.dev/icons?i=vscode&theme=dark" /></picture></a>
 </div>
+
+### 🤖 AI / LLM 스택
+
+| 분류 | 도구 |
+| --- | --- |
+| LLM & 멀티 에이전트 | LangGraph · DeepSeek · ReAct · vLLM · LoRA · MCP |
+| NLP & 딥러닝 | PyTorch · BERT · HuggingFace · 모델 압축 · FastText |
+| 엔지니어링 & 도구 | Milvus · Redis · FastAPI · MySQL · Docker · Streamlit |
 
 </details>
 
@@ -163,6 +195,14 @@
   <a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light" /><img alt="VSCode" src="https://skillicons.dev/icons?i=vscode&theme=dark" /></picture></a>
 </div>
 
+### 🤖 Stack de IA / LLM
+
+| Categoría | Herramientas |
+| --- | --- |
+| LLM y multiagente | LangGraph · DeepSeek · ReAct · vLLM · LoRA · MCP |
+| NLP y aprendizaje profundo | PyTorch · BERT · HuggingFace · Compresión de modelos · FastText |
+| Ingeniería y herramientas | Milvus · Redis · FastAPI · MySQL · Docker · Streamlit |
+
 </details>
 
 <details>
@@ -191,6 +231,14 @@
   <a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light" /><img alt="VSCode" src="https://skillicons.dev/icons?i=vscode&theme=dark" /></picture></a>
 </div>
 
+### 🤖 Stack de IA / LLM
+
+| Categoria | Ferramentas |
+| --- | --- |
+| LLM e multiagente | LangGraph · DeepSeek · ReAct · vLLM · LoRA · MCP |
+| NLP e aprendizado profundo | PyTorch · BERT · HuggingFace · Compressão de modelos · FastText |
+| Engenharia e ferramentas | Milvus · Redis · FastAPI · MySQL · Docker · Streamlit |
+
 </details>
 
 <details>
@@ -218,6 +266,14 @@
   <a href="https://github.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github&theme=light" /><img alt="GitHub" src="https://skillicons.dev/icons?i=github&theme=dark" /></picture></a>
   <a href="https://code.visualstudio.com/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=vscode&theme=dark" /><source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=vscode&theme=light" /><img alt="VSCode" src="https://skillicons.dev/icons?i=vscode&theme=dark" /></picture></a>
 </div>
+
+### 🤖 Стек ИИ / LLM
+
+| Категория | Инструменты |
+| --- | --- |
+| LLM и мультиагент | LangGraph · DeepSeek · ReAct · vLLM · LoRA · MCP |
+| NLP и глубокое обучение | PyTorch · BERT · HuggingFace · Сжатие моделей · FastText |
+| Инженерия и инструменты | Milvus · Redis · FastAPI · MySQL · Docker · Streamlit |
 
 </details>
 
